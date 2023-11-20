@@ -1,0 +1,26 @@
+
+#title{
+  text-align: center;
+
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+
+}
+
+#img-caption{
+  font-family: Sans-serif;
+  font-size: 1.1rem;
+  color: grey;
+
+}
+#tribute-info{
+  font-family: tahoma;
+  font-size: 16px;
+}
+#tribute-link{
+  color: blue;
+}
